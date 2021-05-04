@@ -6,7 +6,7 @@
   - machine translation (preordering, constraint-handling, and mini-batching)
   - machine learning (learning to rank)
 
-### 🥼 Professional Experience
+## 🥼 Professional Experience
 - [CyberAgent, Inc.](https://cyberagent.ai/ailab/)
   - April 2021 - present, research scientist
 - [Mirai Translate, Inc.](https://miraitranslate.com/en/)
@@ -18,27 +18,10 @@
 - [The National Instutite of Informatics, Japan](https://www.nii.ac.jp/en/) (NII)
   - November 2011 - August 2016, research assistant
 
-### 🏫 Education
+## 🏫 Education
 - [The Graduate University for Advanced Studies, Japan](https://www.nii.ac.jp/graduate/en/) / NII
   - October 2011 - March 2019, Ph.D. in Informatics. Advisor: [Yusuke Miyao](https://researchmap.jp/yusuke/?lang=english)
   - Ph.D. thesis: _Syntax-based Preordering for Statistical Machine Translation_
 
-### 📜 Publication
+## 📜 Publication
 - See my [Google Scholar profile](https://scholar.google.com/citations?user=ZO2_7l0AAAAJ) and [Researchmap page](https://researchmap.jp/sho-hoshino/?lang=english)
-
-<!--
-### Hi there 👋
-
-**shhshn/shhshn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
