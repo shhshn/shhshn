@@ -2,9 +2,9 @@
 - 🦙 I am a research scientist working at CyberAgent, Inc.
 - 📮 contact: `shhshn.shohoshino @ gmail.com`
 - 🧪 research topics
-  - language resource and evaluation (blackbox/glassbox analysis, normalization, tokenization, and alignment)
-  - machine translation (preordering, constraint-handling, and mini-batching)
-  - machine learning (learning to rank)
+  - language resources and evaluation (blackbox/glassbox analysis, normalization, tokenization, and alignment)
+  - machine translation (preordering, constraint handling, and mini-batching)
+  - machine learning (learning to rank and structured prediction/learning)
 
 ## 🥼 Professional Experience
 - [CyberAgent, Inc.](https://cyberagent.ai/ailab/)
@@ -24,4 +24,4 @@
   - Ph.D. thesis: _Syntax-based Preordering for Statistical Machine Translation_
 
 ## 📜 Publication
-- See my [Google Scholar profile](https://scholar.google.com/citations?user=ZO2_7l0AAAAJ) and [Researchmap page](https://researchmap.jp/sho-hoshino/?lang=english)
+- See my [Google Scholar profile](https://scholar.google.com/citations?user=ZO2_7l0AAAAJ) and/or my [Researchmap page](https://researchmap.jp/sho-hoshino/?lang=english) for domestic papers/materials
