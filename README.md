@@ -15,7 +15,7 @@
   - August - December 2015, visiting research engineer
 - [NTT Communication Science Laboratories](http://www.kecl.ntt.co.jp/english/index.html)
   - 2012 - 2014, visiting researcher. Advisor: [Katsuhito Sudoh](https://www.sudoh.nl/)
-- [The National Instutite of Informatics, Japan](https://www.nii.ac.jp/en/) (NII)
+- [The National Institute of Informatics, Japan](https://www.nii.ac.jp/en/) (NII)
   - November 2011 - August 2016, research assistant
 
 ## 🏫 Education
