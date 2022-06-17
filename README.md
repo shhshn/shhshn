@@ -2,11 +2,11 @@
 - 🦙 I am a research scientist working at CyberAgent, Inc.
 - 📮 contact: `shhshn.shohoshino @ gmail.com`
 - 🧪 research topics
-  - language resources and evaluation (blackbox/glassbox analysis, normalization, tokenization, and alignment)
-  - machine translation (preordering, constraint handling, and mini-batching)
-  - machine learning (learning to rank and structured prediction/learning)
+  - language resources and evaluation
+  - machine translation
+  - machine learning
 
-## 🥼 Professional Experience
+## 🥼 Work Experience
 - [CyberAgent, Inc.](https://cyberagent.ai/ailab/)
   - April 2021 - present, research scientist
 - [Mirai Translate, Inc.](https://miraitranslate.com/en/)
